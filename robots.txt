@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liviomaynard.github.io/cinecase-privacy/sitemap.xml
